@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 04.01.2021
-**Name:** Ufuk 
+**Name:** Ufuk  
 **Surname:** Eskici  
 **Email:** ufukeskici@gmail.com  
 
